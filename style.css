@@ -347,7 +347,9 @@ a:hover{
     .floatArrow{
         display: none;
     }
-
+    .educationContainer,.workContainer,.projectsContainer{
+        margin-right: 15px;
+    }
     
 }
 
